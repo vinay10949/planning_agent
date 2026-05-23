@@ -1,6 +1,6 @@
 # 🧠 Planning Agent (LangGraph + LM Studio + LangFuse)
 
-A production-ready Plan-and-Execute agent architecture based on the foundational Chapter 5 design. The agent breaks down complex objectives into a step-by-step plan, executes each step using a **Tool-Calling ReAct Agent**, evaluates progress, and re-plans if necessary.
+A production-ready Plan-and-Execute agent architecture. The agent breaks down complex objectives into a step-by-step plan, executes each step using a **Tool-Calling ReAct Agent**, evaluates progress, and re-plans if necessary.
 
 100% Free and Local. Uses LM Studio for LLM inference and LangFuse for Observability/Evals.
 
